@@ -1,0 +1,1 @@
+Title: BookManagementCrud | Work number: 8 | Worked by: Alkeo | Contains: Html, CSS, JS, React | Use cd client, npm install and npm start | Use cd server, npm install and npm start
